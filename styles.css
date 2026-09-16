@@ -31,8 +31,8 @@ img{max-width:100%;height:auto;display:block}
 /* Navigace */
 .nav{background:var(--navbg);position:sticky;top:0;z-index:10;border-bottom:1px solid var(--line)}
 .nav-inner{display:flex;align-items:center;gap:20px;padding:12px 20px}
-.logo{font-weight:800;color:var(--ink);text-decoration:none;font-size:1.1rem}
-.logo span{font-weight:500;color:var(--muted);font-size:.9rem}
+.logo{display:flex;flex-direction:column;line-height:1.15;font-weight:800;color:var(--ink);text-decoration:none;font-size:1.25rem;letter-spacing:.02em}
+.logo span{font-weight:500;color:var(--muted);font-size:.85rem;white-space:nowrap}
 .nav nav{display:flex;gap:16px;margin-left:auto}
 .nav nav a{color:var(--ink);text-decoration:none;font-weight:500}
 .nav nav a:hover{color:var(--teal-dark)}
