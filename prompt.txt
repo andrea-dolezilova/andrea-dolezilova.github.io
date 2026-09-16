@@ -1,0 +1,4 @@
+Vytvoř jednoduché webové stránky za účelem nabídky doučování matematiky pro středoškolské i vysokoškolské studenty. UI bych si představovala moderní jednoduché. chci aby ihned bylo videt kontakt, fotku (placeholder), jméno Andrea Doležilová a zaroven ze studuji obecnou matematiku na MFF UK. Zároven opravdu jednoduchy navrh nabidky. 
+
+Po vytvoreni stranky nezapomen na SEO a chatbot optimalizaci. 
+Stranka muze byt v jednoduchem statickem CSS a HTML ale svizne moderni a jednoduchy svezi vzhled. 
