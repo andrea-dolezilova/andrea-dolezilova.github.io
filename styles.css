@@ -128,4 +128,5 @@ footer{background:var(--ink);color:#cbd5e1;margin-top:0}
   .section{padding:38px 20px}
   .cards,.cards-2,.steps{grid-template-columns:1fr}
   .nav nav{display:none}
+  .nav-inner .btn{margin-left:auto}
 }
